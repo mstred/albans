@@ -1,7 +1,7 @@
 albans
 ======
 
-A simple Forum implementation with Node.js.
+A simple Node.js Forum implementation.
 
 ####Technologies:
 * Express.js (Web framework)
